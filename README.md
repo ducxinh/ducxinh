@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 ## ⚡ Some Languages and Tools I used
 <p align="left">
-<img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" alt="csharp" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="30" height="30"/>
 <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"width="30" height="30" />
@@ -36,7 +33,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="30" height="30" />
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30" />
 <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="30" height="30" />
 <img src="https://icongr.am/devicon/sourcetree-original.svg?size=128&color=currentColor" alt="sourcetree" width="30" height="30" />
 <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" alt="vs" width="30" height="30" />
