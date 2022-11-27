@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [facebook](https://www.facebook.com/ducxinh803/), [linkedin](https://www.linkedin.com/in/nguyen-duc-xinh-7b4464128)
 
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg
 
 ## ⚡ Some Languages and Tools I used
 <p align="left">
