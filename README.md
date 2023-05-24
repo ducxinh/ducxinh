@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**ducxinh201/ducxinh201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ducxinh/ducxinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 😄 Pronouns: ...
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working for Kozocom
 - 🌱 I’m currently learning Architectures, Devops stuff, Blockchain and a bit of Project management.
 - 💬 Ask me about: HTML5/CSS3, Javascript, PHP, Laravel, Database, React, Bash script, Devops stuff, AWS, Linux
-- 📫 How to reach me: [facebook](https://www.facebook.com/ducxinh803/), [linkedin](https://www.linkedin.com/in/nguyen-duc-xinh-7b4464128)
+- 📫 How to reach me: [facebook](https://www.facebook.com/ducxinhdn201), [linkedin](https://linkedin.com/in/ducxinh-it)
 
 
 
@@ -56,5 +56,5 @@ Here are some ideas to get you started:
 </p>
 
 ## 📊 GitHub Stats: 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=ducxinh201&theme=onedark)
-![image](https://github-readme-stats.vercel.app/api?username=ducxinh201&show_icons=true&show_icons=true&theme=onedark&count_private=true&cache_seconds=1800&line_height=24)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=ducxinh&theme=onedark)
+![image](https://github-readme-stats.vercel.app/api?username=ducxinh&show_icons=true&show_icons=true&theme=onedark&count_private=true&cache_seconds=1800&line_height=24)
